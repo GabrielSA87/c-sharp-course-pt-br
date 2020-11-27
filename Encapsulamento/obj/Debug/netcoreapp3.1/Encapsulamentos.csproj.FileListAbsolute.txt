@@ -1,0 +1,9 @@
+C:\Users\gabri\source\repos\CursoCSharp\Encapsulamento\bin\Debug\netcoreapp3.1\Encapsulamentos.deps.json
+C:\Users\gabri\source\repos\CursoCSharp\Encapsulamento\bin\Debug\netcoreapp3.1\Encapsulamentos.dll
+C:\Users\gabri\source\repos\CursoCSharp\Encapsulamento\bin\Debug\netcoreapp3.1\Encapsulamentos.pdb
+C:\Users\gabri\source\repos\CursoCSharp\Encapsulamento\obj\Debug\netcoreapp3.1\Encapsulamentos.csprojAssemblyReference.cache
+C:\Users\gabri\source\repos\CursoCSharp\Encapsulamento\obj\Debug\netcoreapp3.1\Encapsulamentos.AssemblyInfoInputs.cache
+C:\Users\gabri\source\repos\CursoCSharp\Encapsulamento\obj\Debug\netcoreapp3.1\Encapsulamentos.AssemblyInfo.cs
+C:\Users\gabri\source\repos\CursoCSharp\Encapsulamento\obj\Debug\netcoreapp3.1\Encapsulamentos.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\CursoCSharp\Encapsulamento\obj\Debug\netcoreapp3.1\Encapsulamentos.dll
+C:\Users\gabri\source\repos\CursoCSharp\Encapsulamento\obj\Debug\netcoreapp3.1\Encapsulamentos.pdb
