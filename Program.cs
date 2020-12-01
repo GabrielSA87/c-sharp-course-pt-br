@@ -90,6 +90,10 @@ namespace CursoCSharp
                 {"Delegates como Funcão Anonima - Métodos e Funcões", DelegateFuncAnonima.Executar},
                 {"Delegates como Parametros - Métodos e Funcões", DelegatesComoParametros.Executar},
                 {"Métodos de Extensão - Métodos e Funcões", MetodosDeExtensao.Executar},
+                                
+                // Excecões
+                {"Primeira Excecão - Excecões", PrimeiraExcecao.Executar},
+                {"Excecões Personalizadas - Excecões", ExcecoesPersonalizadas.Executar},
             });
 
             central.SelecionarEExecutar();
